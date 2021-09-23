@@ -1,6 +1,6 @@
 # Netflix - Interface Clone
 
-![](https://github.com/Henrickqt/Netflix-Clone/blob/main/assets/screen.png)
+![](https://github.com/Henrickqt/netflix-clone/blob/master/assets/screen.png)
 
 This project is a clone of the netflix interface.
 
